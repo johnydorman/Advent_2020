@@ -24,7 +24,7 @@ Day 01: Report Repair - Nim
 
 Day 02: Password Philosophy - Java
 
-Day 03: 
+Day 03: Toboggan Trajectory - Ruby
 
 Day 04: 
 
