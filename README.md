@@ -28,7 +28,7 @@ Day 03: Toboggan Trajectory - Ruby
 
 Day 04: Passport Processing - C++
 
-Day 05:
+Day 05: Binary Boarding - Ruby
 
 Day 06: 
 
