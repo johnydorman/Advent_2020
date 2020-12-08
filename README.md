@@ -18,9 +18,9 @@ Nim 1.4
 
 Java 1.8
 
-Ruby 
+Ruby 2.7
 
-Python 
+Python 3.8
 
 ## Days
 
@@ -36,10 +36,16 @@ Day 05: Binary Boarding - Ruby
 
 Day 06: Custom Customs - Python
 
-Day 07: 
+Day 07: Handy Haversacks - C#
 
 Day 08:
 
 Day 09:
 
 Day 10:
+
+Day 11: 
+
+Day 12: 
+
+Day 13: 
