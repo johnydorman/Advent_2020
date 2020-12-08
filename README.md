@@ -18,6 +18,10 @@ Nim 1.4
 
 Java 1.8
 
+Ruby 
+
+Python 
+
 ## Days
 
 Day 01: Report Repair - Nim
@@ -30,9 +34,9 @@ Day 04: Passport Processing - C++
 
 Day 05: Binary Boarding - Ruby
 
-Day 06: 
+Day 06: Custom Customs - Python
 
-Day 07:
+Day 07: 
 
 Day 08:
 
