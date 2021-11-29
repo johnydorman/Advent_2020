@@ -22,6 +22,10 @@ Ruby 2.7
 
 Python 3.8
 
+C# - 5.0
+
+C++ - GCC 5.3.0
+
 ## Days
 
 Day 01: Report Repair - Nim
@@ -38,7 +42,7 @@ Day 06: Custom Customs - Python
 
 Day 07: Handy Haversacks - C#
 
-Day 08:
+Day 08: Handheld Halting - Ruby
 
 Day 09:
 
